@@ -37,7 +37,3 @@ Sreelakshmi P S
 
 
 
-
-
-## 👩‍💻 Analyst
-Sreelakshmi P S
