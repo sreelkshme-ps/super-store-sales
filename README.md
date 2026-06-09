@@ -1,11 +1,8 @@
-# super-store-sales
-Interactive Excel dashboard analyzing 9,994 Superstore  orders (2014–2017) | Pivot Charts | Slicers | KPI Cards
-
 # 🛒 Superstore Sales Analysis Dashboard
 
 ## 📌 Project Overview
-An interactive Excel dashboard analyzing 9,994 orders 
-from a US Superstore (2014–2017) across 4 regions, 
+An interactive Excel dashboard analyzing 9,994 orders
+from a US Superstore (2014–2017) across 4 regions,
 3 categories, and 4 sales representatives.
 
 ## 🛠️ Tool Used
@@ -34,6 +31,3 @@ Slicers, Conditional Formatting, Dynamic KPIs
 
 ## 👩‍💻 Analyst
 Sreelakshmi P S
-
-
-
