@@ -21,4 +21,23 @@ Slicers, Conditional Formatting, Dynamic KPIs
 ## 🔍 Key Findings
 - Sales grew 51% from $484K (2014) to $733K (2017)
 - West region leads: $7.25M sales & $1.08M profit
-- Technology: most profitable category
+- Technology: most profitable category (17.4% margin)
+- Discounts above 30% consistently produce losses
+- West accounts for 61% of all product returns
+- Anna Andreadi: best margin at 21.9%
+- Kelly Williams: only loss-making rep at –10.4%
+
+## 📸 Dashboard Preview
+![Dashboard 1](Screenshot1.png)
+![Dashboard 2](Screenshot2.png)
+![Dashboard 3](Screenshot3.png)
+
+## 👩‍💻 Analyst
+Sreelakshmi P S
+
+
+
+
+
+## 👩‍💻 Analyst
+Sreelakshmi P S
