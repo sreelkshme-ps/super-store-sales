@@ -17,7 +17,7 @@ Slicers, Conditional Formatting, Dynamic KPIs
 
 ## 🔍 Key Findings
 - Sales grew 51% from $484K (2014) to $733K (2017)
-- West region leads: $7.25M sales & $1.08M profit
+- West region leads: $725K sales & $108K profit
 - Technology: most profitable category (17.4% margin)
 - Discounts above 30% consistently produce losses
 - West accounts for 61% of all product returns
